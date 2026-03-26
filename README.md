@@ -21,6 +21,11 @@
   <img src="https://img.shields.io/github/followers/Vineetpandey0?label=Followers&style=social" alt="followers" />
 </p>
 
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:vineetpandey0090@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/vineetpandey24)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Vineetpandey0)
+
 </div>
 
 ---
@@ -72,15 +77,23 @@ const vineet = {
 
 ### 🌐 Web
 
-| Project | Description | Stack |
-|--------|-------------|-------|
-| ✨ [Sparkl](https://github.com/Vineetpandey0/Sparkl) | Photo sharing social platform | React · Next.js · TypeScript |
+| Project | Description | Stack | Live Link |
+|--------|-------------|-------|-------|
+| ✨ [Sparkl](https://github.com/Vineetpandey0/Sparkl) | Photo sharing • Social platform • Authentication • Real-time feed • Image uploads | React · Next.js · TypeScript | [Live](https://sparkl-share.vercel.app/)
 
 ### 📱 Mobile
 
 | Project | Description | Stack |
 |--------|-------------|-------|
-| 🗳️ [VoterAware](https://github.com/Vineetpandey0/VoterAware) | Latest updates and news for voters | React Native · Expo |
+| 🗳️ [VoterAware](https://github.com/Vineetpandey0/VoterAware) | Election updates • Polling locations • Voter resources • Real-time info • Cross-platform | React Native · Expo |
+
+---
+
+## 🏆 Achievements & Certifications
+
+| Achievement | Issuer | Year |
+|-------------|--------|------|
+| **Smart Delhi Ideathon 2025 Finalist** | National Ideathon | 2025 |
 
 ---
 
@@ -100,8 +113,21 @@ const vineet = {
 
 ---
 
+## 📫 Let's Connect
+
+I'm actively seeking **Summer 2024 Internship** opportunities in:
+- Software Engineering
+- Full Stack Development
+- GenAI Engineering
+- DSA C++
+
+📧 **Email:** [vineetpandey0090@gmail.com](mailto:vineetpandey0090@gmail.com)  
+🔗 **LinkedIn:** [linkedin.com/in/vineetpandey24](https://linkedin.com/in/vineetpandey24)  
+
+---
+
 <div align="center">
-  <i>✨ "First, solve the problem. Then, write the code." — John Johnson</i>
+  <i>"Building scalable solutions at the intersection of user experience and artificial intelligence."</i>
   <br/><br/>
-  <b>Let's build something awesome together 🚀</b>
+  <sub>⚡ Open for collaboration | 💼 Available for internships | 🚀 Let's build something impactful</sub>
 </div>
