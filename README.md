@@ -1,28 +1,41 @@
-<h1 align="center">Hey, I'm Vineet Pandey 👋</h1>
+<div align="center">
 
-<p align="center">
-  <em>🎓 Student Developer &nbsp;•&nbsp; 🌐 Web Dev &nbsp;•&nbsp; 📱 Mobile Dev &nbsp;•&nbsp; 🚀 Building cool things</em>
+```
+██╗   ██╗██╗███╗   ██╗███████╗███████╗████████╗
+██║   ██║██║████╗  ██║██╔════╝██╔════╝╚══██╔══╝
+██║   ██║██║██╔██╗ ██║█████╗  █████╗     ██║   
+╚██╗ ██╔╝██║██║╚██╗██║██╔══╝  ██╔══╝     ██║   
+ ╚████╔╝ ██║██║ ╚████║███████╗███████╗   ██║   
+  ╚═══╝  ╚═╝╚═╝  ╚═══╝╚══════╝╚══════╝   ╚═╝   
+```
+
+# Hey, I'm Vineet Pandey 👋
+
+<p>
+  <em>🎓 Student Developer &nbsp;•&nbsp; 🌐 Web Dev &nbsp;•&nbsp; 📱 Mobile Dev &nbsp;•&nbsp; 🤖 Gen AI Explorer</em>
 </p>
 
-<p align="center">
-  <a href="https://github.com/Vineetpandey0">
-    <img src="https://komarev.com/ghpvc/?username=Vineetpandey0&label=Profile%20Views&color=6366f1&style=flat-square" alt="profile views" />
-  </a>
-  <a href="https://github.com/Vineetpandey0?tab=followers">
-    <img src="https://img.shields.io/github/followers/Vineetpandey0?label=Followers&style=social" alt="followers" />
-  </a>
+<p>
+  <img src="https://komarev.com/ghpvc/?username=Vineetpandey0&label=Profile%20Views&color=6366f1&style=flat-square" alt="profile views" />
+  &nbsp;
+  <img src="https://img.shields.io/github/followers/Vineetpandey0?label=Followers&style=social" alt="followers" />
 </p>
+
+</div>
 
 ---
 
 ## 🙋‍♂️ About Me
 
-- 🎓 Currently a **student** passionate about building for the web and mobile
-- 🌐 Love crafting clean, responsive **web experiences**
-- 📱 Exploring **mobile app development** to build apps people use daily
-- 🌱 Always learning — currently diving deeper into **[e.g. React Native / Flutter / Next.js]**
-- 💬 Open to collaborating on student projects, open source, or anything fun!
-- ⚡ Fun fact: I debug better with music on 🎧
+```javascript
+const vineet = {
+  role:       "Student Developer",
+  focus:      ["Web Development", "Mobile Apps", "Generative AI"],
+  learning:   "Building at the intersection of great UX and AI",
+  openTo:     ["Collabs", "Open Source", "Internships"],
+  funFact:    "I debug better with music on 🎧"
+};
+```
 
 ---
 
@@ -46,48 +59,50 @@
 ![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-FF6B35?style=for-the-badge&logo=langgraph&logoColor=white)
 
 ### 🧰 Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
 
 ## 🚀 Projects
 
-### 🌐 Web Projects
+### 🌐 Web
 
-| Project | Description | Stack | Link |
-|--------|-------------|-------|------|
-| 🛒 Sparkl | Photo sharing social platform | React, Next.js, TS | [View →](https://github.com/Vineetpandey0/Sparkl) |
+| Project | Description | Stack |
+|--------|-------------|-------|
+| ✨ [Sparkl](https://github.com/Vineetpandey0/Sparkl) | Photo sharing social platform | React · Next.js · TypeScript |
 
-### 📱 Mobile Projects
+### 📱 Mobile
 
-| Project | Description | Stack | Link |
-|--------|-------------|-------|------|
-| 📋 VoterAware | Latest updates and news for voters | React Native Expo | [View →](https://github.com/Vineetpandey0/VoterAware) |
-| 🗺️ Project Name | Brief description of what this app does | Flutter | [View →](https://github.com/Vineetpandey0/repo) |
+| Project | Description | Stack |
+|--------|-------------|-------|
+| 🗳️ [VoterAware](https://github.com/Vineetpandey0/VoterAware) | Latest updates and news for voters | React Native · Expo |
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vineetpandey0&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vineetpandey0&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vineetpandey0&theme=tokyonight&hide_border=true" width="55%" />
-</p>
+  <img src="https://github-readme-stats.vercel.app/api?username=Vineetpandey0&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" height="165" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vineetpandey0&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="165" />
+
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Vineetpandey0&theme=tokyonight&hide_border=true" height="165" />
+</div>
 
 ---
 
-<p align="center">
+<div align="center">
   <i>✨ "First, solve the problem. Then, write the code." — John Johnson</i>
-</p>
-
-<p align="center">
-  Let's build something awesome together! 🚀
-</p>
+  <br/><br/>
+  <b>Let's build something awesome together 🚀</b>
+</div>
