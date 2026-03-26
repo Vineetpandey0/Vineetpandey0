@@ -51,9 +51,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
-> ✏️ *Remove badges for tools you don't use, and add any that are missing!*
 
 ---
 
@@ -63,17 +60,14 @@
 
 | Project | Description | Stack | Link |
 |--------|-------------|-------|------|
-| 🛒 Project Name | Brief description of what this project does | React, Node.js | [View →](https://github.com/Vineetpandey0/repo) |
-| 🎨 Project Name | Brief description of what this project does | HTML, CSS, JS | [View →](https://github.com/Vineetpandey0/repo) |
+| 🛒 Sparkl | Photo sharing social platform | React, Next.js, TS | [View →](https://github.com/Vineetpandey0/Sparkl) |
 
 ### 📱 Mobile Projects
 
 | Project | Description | Stack | Link |
 |--------|-------------|-------|------|
-| 📋 Project Name | Brief description of what this app does | React Native | [View →](https://github.com/Vineetpandey0/repo) |
+| 📋 VoterAware | Latest updates and news for voters | React Native Expo | [View →](https://github.com/Vineetpandey0/VoterAware) |
 | 🗺️ Project Name | Brief description of what this app does | Flutter | [View →](https://github.com/Vineetpandey0/repo) |
-
-> ✏️ *Replace with your actual repos and descriptions!*
 
 ---
 
