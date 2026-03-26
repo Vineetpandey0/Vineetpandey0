@@ -85,7 +85,7 @@ const vineet = {
 | Project | Description | Stack | Live Link |
 |--------|-------------|-------|-------|
 | ✨ [Sparkl](https://github.com/Vineetpandey0/Sparkl) | Photo sharing • Social platform • Authentication • Real-time feed • Image uploads | React · Next.js · TypeScript | [Live](https://sparkl-share.vercel.app/)
-| 🏥 [CareBridge](https://github.com/Vineetpandey0/CareBridge) | Telehealth platform • Appointments • EHR • Real-time chat • Secure file uploads | React · Node.js · MongoDB · TypeScript · Socket.IO · VideoSDK | [Live](https://carebridge-one.vercel.app/) |
+| 🏥 [CareBridge](https://github.com/Vineetpandey0/CareBridge) | Telehealth platform • Appointments • Secure file uploads | React · Node.js · MongoDB · TypeScript | [Live](https://carebridge-one.vercel.app/) |
 
 ### 📱 Mobile
 
