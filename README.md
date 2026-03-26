@@ -73,23 +73,40 @@ const vineet = {
 | 🗳️ [VoterAware](https://github.com/Vineetpandey0/VoterAware) | 📍 Election updates • 🗺️ Polling locations • 📋 Voter resources • ⏱️ Real-time info • 📱 Cross-platform | ![React](https://skillicons.dev/icons?i=react) |
 ---
 
-## 🏆 Achievements & Certifications
+<!-- ACHIEVEMENTS SECTION -->
+<h2 align="center">
+Achievements & Milestones
+</h2>
 
-| Achievement | Issuer | Year |
-|-------------|--------|------|
-| **Smart Delhi Ideathon 2025 Finalist** | National Ideathon | 2025 |
+<br>
 
----
+<div align="center">
+<table border="0" width="90%">
+<tr>
+
+<td align="center" width="25%" style="padding: 20px;">
+<img src="https://img.icons8.com/3d-fluency/120/rocket.png"/>
+<br><br>
+<h3><i>🚀 Hackathon Expert</i></h3>
+<p><b>12+ Hackathons</b></p>
+<sub><i>3x Finalist</i></sub>
+</td>
+<td align="center" width="25%" style="padding: 20px;">
+<img src="https://img.icons8.com/3d-fluency/120/paint-palette.png"/>
+<br><br>
+<h3><i>SDI 2025 Finalist</i></h3>
+<p><b>National Hackathon</b></p>
+<sub><i>Smart Delhi Ideathon</i></sub>
+</td>
+
+</tr>
+</table>
+</div>
+
 
 ## 📊 GitHub Stats
 
-<div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=Vineetpandey0&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" height="165" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vineetpandey0&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="165" />
-
-</div>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Vineetpandey0&theme=tokyonight&hide_border=true" height="165" />
@@ -105,10 +122,25 @@ I'm actively seeking **Summer 2024 Internship** opportunities in:
 - GenAI Engineering
 - DSA C++
 
-📧 **Email:** [vineetpandey0090@gmail.com](mailto:vineetpandey0090@gmail.com)  
-🔗 **LinkedIn:** [linkedin.com/in/vineetpandey24](https://linkedin.com/in/vineetpandey24)  
+<div justify="center">
 
----
+**📫 Connect with Me**
+
+<p>
+  <a href="mailto:vineetpandey0090@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail"  />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/vineetpandey24">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://instagram.com/vineetpandey00">
+    <img src="https://skillicons.dev/icons?i=instagram"  />
+  </a>
+</p>
+
+</div>---
 
 <div align="center">
   <i>"Building scalable solutions at the intersection of user experience and artificial intelligence."</i>
