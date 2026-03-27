@@ -116,7 +116,7 @@ Achievements & Milestones
 
 ## 📫 Let's Connect
 
-I'm actively seeking **Summer 2024 Internship** opportunities in:
+I'm actively seeking **Summer Internship** opportunities in:
 - Software Engineering
 - Full Stack Development
 - GenAI Engineering
