@@ -15,17 +15,19 @@
   <em>🎓 Student Developer &nbsp;•&nbsp; 🌐 Web Dev &nbsp;•&nbsp; 📱 Mobile Dev &nbsp;•&nbsp; 🤖 Gen AI Explorer</em>
 </p>
 
+
+
 <p>
-  <img src="https://komarev.com/ghpvc/?username=Vineetpandey0&label=Profile%20Views&color=6366f1&style=flat-square" alt="profile views" />
-  &nbsp;
-  <img src="https://img.shields.io/github/followers/Vineetpandey0?label=Followers&style=social" alt="followers" />
+  <a href="mailto:vineetpandey0090@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40" style="display:block;" />
+  </a>
+  <a href="https://linkedin.com/in/vineetpandey24">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" style="display:block;" />
+  </a>
+  <a href="https://github.com/Vineetpandey0">
+    <img src="https://skillicons.dev/icons?i=github" height="40" style="display:block;" />
+  </a>
 </p>
-
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:vineetpandey0090@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/vineetpandey24)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Vineetpandey0)
-
 </div>
 
 ---
