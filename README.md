@@ -19,13 +19,13 @@
 
 <p>
   <a href="mailto:vineetpandey0090@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="40" style="display:block;" />
-  </a>
+    <img src="https://skillicons.dev/icons?i=gmail" height="36" />
+  </a>&nbsp;&nbsp;
   <a href="https://linkedin.com/in/vineetpandey24">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40" style="display:block;" />
-  </a>
+    <img src="https://skillicons.dev/icons?i=linkedin" height="36" />
+  </a>&nbsp;&nbsp;
   <a href="https://github.com/Vineetpandey0">
-    <img src="https://skillicons.dev/icons?i=github" height="40" style="display:block;" />
+    <img src="https://skillicons.dev/icons?i=github" height="36" />
   </a>
 </p>
 </div>
