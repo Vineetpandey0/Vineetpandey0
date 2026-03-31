@@ -110,9 +110,7 @@ Achievements & Milestones
 
 
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Vineetpandey0&theme=tokyonight&hide_border=true" height="165" />
-</div>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Vineetpandey0)](https://git.io/streak-stats)
 
 ---
 
