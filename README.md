@@ -76,13 +76,13 @@ const vineet = {
 ---
 
 <!-- ACHIEVEMENTS SECTION -->
-<h2 align="center">
+<h2 >
 Achievements & Milestones
 </h2>
 
 <br>
 
-<div align="center">
+<div >
 <table border="0" width="90%">
 <tr>
 
