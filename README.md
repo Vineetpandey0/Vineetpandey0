@@ -66,7 +66,7 @@ const vineet = {
 | Project | Description | Stack | Live Link |
 |--------|-------------|-------|-----------|
 | ✨ [Sparkl](https://github.com/Vineetpandey0/Sparkl) | 📸 Photo sharing • 👥 Social platform • 🔐 Authentication • ⚡ Real-time feed • 🖼️ Image uploads | ![React](https://skillicons.dev/icons?i=react) ![Next.js](https://skillicons.dev/icons?i=nextjs) ![MongoDB](https://skillicons.dev/icons?i=mongodb) ![TypeScript](https://skillicons.dev/icons?i=typescript) ![Zustand](https://img.shields.io/badge/Zustand-000000?style=flat-square&logo=react&logoColor=white) | [Live](https://sparkl-share.vercel.app/) |
-| 🏥 [CareBridge](https://github.com/Vineetpandey0/CareBridge) | 🏥 Telehealth platform • 📅 Appointments • 🔒 Secure file uploads | ![React](https://skillicons.dev/icons?i=react) ![Node.js](https://skillicons.dev/icons?i=nodejs) ![Next.js](https://skillicons.dev/icons?i=nextjs) ![MongoDB](https://skillicons.dev/icons?i=mongodb) ![TypeScript](https://skillicons.dev/icons?i=typescript) ![Zustand](https://img.shields.io/badge/Zustand-000000?style=flat-square&logo=react&logoColor=white) | [Live](https://carebridge-one.vercel.app/) |
+| 🎬 [AdStudio](https://github.com/Vineetpandey0/AdStudio) | 🎬 AI short ad video creator • 📝 Auto script generation • 🎨 Visuals & voiceover | ![React](https://skillicons.dev/icons?i=react) ![JavaScript](https://skillicons.dev/icons?i=javascript) ![Next.js](https://skillicons.dev/icons?i=nextjs) ![Tailwind CSS](https://skillicons.dev/icons?i=tailwind) ![Node.js](https://skillicons.dev/icons?i=nodejs) | [Live](https://adstudioai.vercel.app/) |
 
 ### 📱 Mobile
 
