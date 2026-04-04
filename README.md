@@ -108,7 +108,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Vineetpandey0&theme=tokyonight&hide_border=true&background=0D1117" height="170"/>
+  <img src="https://streak-stats.demolab.com?user=Vineetpandey0&theme=tokyonight&hide_border=true&background=0D1117" height="250"/>
 </p>
 
 <p align="center">
@@ -132,9 +132,11 @@ Actively seeking **Summer 2026 Internship roles** in:
 ---
 
 <div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="480"/>
-
+ 
+<p>
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="full"/>
+</p>
+ 
 <br/><br/>
 
 *"Building scalable solutions at the intersection of user experience and artificial intelligence."*
