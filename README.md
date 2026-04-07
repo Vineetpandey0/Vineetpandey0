@@ -80,8 +80,8 @@
 
 | Project | Description | Stack | Link |
 |--------|-------------|-------|------|
-| **[Context Sync](https://github.com/Vineetpandey0/context-sync)** | Chrome extension that preserves AI conversations as reusable structured context — solving LLM context loss and enabling multi-session workflows | `JS` `Chrome Ext` `Manifest V3` | — |
-| **[AdStudio](https://github.com/Vineetpandey0/AdStudio)** | AI-powered ad generator that creates scripts, visuals, and voiceovers — reducing manual ad creation time by ~80% | `React` `Next.js` `Tailwind` `Node.js` | [🔗 Live](https://adstudioai.vercel.app/) |
+| **[Context Sync](https://github.com/Vineetpandey0/context-sync)** | Chrome extension that preserves AI conversations as reusable structured context — solving LLM context loss and enabling multi-session workflows. | `JS` `Chrome Ext` `Manifest V3` | — |
+| **[AdStudio](https://github.com/Vineetpandey0/AdStudio)** | AI-powered ad generator that creates scripts, visuals, and voiceovers — reducing manual ad creation time by ~80% | `React` `Next.js` `Tailwind` `Node.js` `Hugging Face API` | [🔗 Live](https://adstudioai.vercel.app/) |
 | **[Sparkl](https://github.com/Vineetpandey0/Sparkl)** | Photo sharing social platform with real-time feed, authentication & image uploads | `Next.js` `MongoDB` `TypeScript` `Zustand` | [🔗 Live](https://sparkl-share.vercel.app/) |
 
 ### 📱 Mobile
