@@ -106,10 +106,12 @@
 ---
 
 ## 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Vineetpandey0&theme=tokyonight"/>
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=Vineetpandey0&theme=tokyonight&hide_border=true&background=0D1117" />
+  </a>
 </p>
+
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vineetpandey0&theme=tokyo-night&bg_color=0D1117&hide_border=true"/>
 </p>
