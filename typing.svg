@@ -1,72 +1,84 @@
-<svg
-  width="800"
-  height="220"
-  viewBox="0 0 800 220"
-  xmlns="http://www.w3.org/2000/svg"
-  style="background:#0d1117; border-radius:10px;"
->
+<svg width="900" height="260" viewBox="0 0 900 260" xmlns="http://www.w3.org/2000/svg">
+
+  <!-- Background -->
+  <rect width="100%" height="100%" rx="12" fill="#0d1117"/>
+
+  <!-- Top bar -->
+  <rect width="900" height="40" rx="12" fill="#161b22"/>
+
+  <!-- Mac dots -->
+  <circle cx="25" cy="20" r="6" fill="#ff5f56"/>
+  <circle cx="45" cy="20" r="6" fill="#ffbd2e"/>
+  <circle cx="65" cy="20" r="6" fill="#27c93f"/>
+
+  <!-- Title -->
+  <text x="50%" y="25" text-anchor="middle" fill="#8b949e" font-size="14" font-family="monospace">
+    vineet.js — ~/portfolio
+  </text>
+
+  <!-- Live badge -->
+  <rect x="780" y="10" rx="10" ry="10" width="80" height="20" fill="#0f5132"/>
+  <circle cx="795" cy="20" r="4" fill="#2ecc71"/>
+  <text x="810" y="24" fill="#2ecc71" font-size="12" font-family="monospace">live</text>
+
+  <!-- Code styling -->
   <style>
-    .text {
-      font-family: monospace;
-      font-size: 16px;
-      fill: #c9d1d9;
-      white-space: pre;
-    }
+    .code { font-family: monospace; font-size: 16px; }
+    .comment { fill: #3fb950; }
+    .keyword { fill: #ff7b72; }
+    .key { fill: #79c0ff; }
+    .string { fill: #a5d6ff; }
 
     .line {
       opacity: 0;
-      animation: show 0.5s forwards;
+      animation: fadeIn 0.4s forwards;
     }
 
-    @keyframes show {
-      to {
-        opacity: 1;
-      }
+    @keyframes fadeIn {
+      to { opacity: 1; }
     }
   </style>
 
-  <!-- Line 1 -->
-  <text x="20" y="30" class="text line" style="animation-delay: 0s;">
+  <!-- Code lines -->
+
+  <!-- 1 -->
+  <text x="20" y="70" class="code comment line" style="animation-delay:0s">
     /* 👋 hey, Vineet here */
   </text>
 
-  <!-- Line 2 -->
-  <text x="20" y="55" class="text line" style="animation-delay: 0.5s;">
-    const me = {
+  <!-- 2 -->
+  <text x="20" y="95" class="code line" style="animation-delay:0.5s">
+    <tspan class="keyword">const me = {</tspan>
   </text>
 
-  <!-- Line 3 -->
-  <text x="40" y="80" class="text line" style="animation-delay: 1s;">
-    name: "Vineet",
+  <!-- 3 -->
+  <text x="40" y="120" class="code line" style="animation-delay:1s">
+    <tspan class="key">name</tspan>: <tspan class="string">"Vineet"</tspan>,
   </text>
 
-  <!-- Line 4 -->
-  <text x="40" y="105" class="text line" style="animation-delay: 1.5s;">
-    role: "Full-stack developer",
+  <!-- 4 -->
+  <text x="40" y="145" class="code line" style="animation-delay:1.5s">
+    <tspan class="key">role</tspan>: <tspan class="string">"Full-stack developer"</tspan>,
   </text>
 
-  <!-- Line 5 -->
-  <text x="40" y="130" class="text line" style="animation-delay: 2s;">
-    stack: ["Web", "Mobile", "GenAI", "Dev Tools"],
+  <!-- 5 -->
+  <text x="40" y="170" class="code line" style="animation-delay:2s">
+    <tspan class="key">stack</tspan>: <tspan class="string">["Web","Mobile","GenAI","Dev Tools"]</tspan>,
   </text>
 
-  <!-- Line 6 -->
-  <text x="40" y="155" class="text line" style="animation-delay: 2.5s;">
-    passion: "building things that matter",
+  <!-- 6 -->
+  <text x="40" y="195" class="code line" style="animation-delay:2.5s">
+    <tspan class="key">passion</tspan>: <tspan class="string">"building things that matter"</tspan>,
   </text>
 
-  <!-- Line 7 -->
-  <text x="40" y="180" class="text line" style="animation-delay: 3s;">
-    status: "open to opportunities"
+  <!-- 7 -->
+  <text x="40" y="220" class="code line" style="animation-delay:3s">
+    <tspan class="key">status</tspan>: <tspan class="string">"open to opportunities"</tspan>
   </text>
 
-  <!-- Line 8 -->
-  <text x="20" y="205" class="text line" style="animation-delay: 3.5s;">
-    };
+  <!-- 8 -->
+  <text x="20" y="245" class="code line" style="animation-delay:3.5s">
+    <tspan class="key">}</tspan>;
   </text>
 
-  <!-- Line 9 -->
-  <text x="20" y="230" class="text line" style="animation-delay: 4s;">
-    me.greet();
-  </text>
 </svg>
