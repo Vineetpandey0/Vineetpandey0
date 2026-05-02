@@ -1,12 +1,10 @@
+[![](./header_.png)](#)
 <div align="center">
-
 <h1>Hey, I'm Vineet Pandey 👋
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=24&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Mobile+Developer;Gen+AI+Enthusiast;DSA+Cpp" />
+</p>
 
-<br/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Open+to+Collabs%2C+OSS+%26+Internships;Open+Source+Contributor)](https://git.io/typing-svg)
-
-<br/>
 
 <a href="mailto:vineetpandey0090@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://linkedin.com/in/vineetpandey24"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -115,6 +113,7 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vineetpandey0&theme=tokyo-night&bg_color=0D1117&hide_border=true"/>
 </p>
+
 ---
 
 ## 💼 Open to Opportunities
