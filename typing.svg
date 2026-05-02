@@ -1,0 +1,72 @@
+<svg
+  width="800"
+  height="220"
+  viewBox="0 0 800 220"
+  xmlns="http://www.w3.org/2000/svg"
+  style="background:#0d1117; border-radius:10px;"
+>
+  <style>
+    .text {
+      font-family: monospace;
+      font-size: 16px;
+      fill: #c9d1d9;
+      white-space: pre;
+    }
+
+    .line {
+      opacity: 0;
+      animation: show 0.5s forwards;
+    }
+
+    @keyframes show {
+      to {
+        opacity: 1;
+      }
+    }
+  </style>
+
+  <!-- Line 1 -->
+  <text x="20" y="30" class="text line" style="animation-delay: 0s;">
+    /* 👋 hey, Vineet here */
+  </text>
+
+  <!-- Line 2 -->
+  <text x="20" y="55" class="text line" style="animation-delay: 0.5s;">
+    const me = {
+  </text>
+
+  <!-- Line 3 -->
+  <text x="40" y="80" class="text line" style="animation-delay: 1s;">
+    name: "Vineet",
+  </text>
+
+  <!-- Line 4 -->
+  <text x="40" y="105" class="text line" style="animation-delay: 1.5s;">
+    role: "Full-stack developer",
+  </text>
+
+  <!-- Line 5 -->
+  <text x="40" y="130" class="text line" style="animation-delay: 2s;">
+    stack: ["Web", "Mobile", "GenAI", "Dev Tools"],
+  </text>
+
+  <!-- Line 6 -->
+  <text x="40" y="155" class="text line" style="animation-delay: 2.5s;">
+    passion: "building things that matter",
+  </text>
+
+  <!-- Line 7 -->
+  <text x="40" y="180" class="text line" style="animation-delay: 3s;">
+    status: "open to opportunities"
+  </text>
+
+  <!-- Line 8 -->
+  <text x="20" y="205" class="text line" style="animation-delay: 3.5s;">
+    };
+  </text>
+
+  <!-- Line 9 -->
+  <text x="20" y="230" class="text line" style="animation-delay: 4s;">
+    me.greet();
+  </text>
+</svg>
