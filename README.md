@@ -16,7 +16,7 @@
 
 ## 🙋‍♂️ About Me
 
-![alt text](image-1.png)
+![Typing SVG](./typing.svg)
 
 
 ---
